@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<a href="https://app.daily.dev/dcconn"><img src="https://api.daily.dev/devcards/c288fadecf89489794e00a9c9c844538.png?r=t5l" width="400" alt="David Conn's Dev Card"/></a>
+
 <!--
 **dcconn/dcconn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,5 +16,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<a href="https://app.daily.dev/dcconn"><img src="https://api.daily.dev/devcards/c288fadecf89489794e00a9c9c844538.png?r=t5l" width="400" alt="David Conn's Dev Card"/></a>
+
 -->
